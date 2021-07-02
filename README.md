@@ -1,1 +1,1 @@
-# hamalord0
+Tool format hamalord0
